@@ -1,0 +1,28 @@
+{
+  "project": "Последний бастион · Ночь без рассвета",
+  "projectId": "bastion-endless-oath",
+  "version": "1.0.0",
+  "engineSDK": 1,
+  "base": "./",
+  "scenes": [
+    {
+      "id": "castle",
+      "name": "Крепость Серого Ордена",
+      "path": "scenes/castle.scene.json"
+    }
+  ],
+  "modules": [
+    {
+      "id": "bastion",
+      "version": 1
+    }
+  ],
+  "assets": [],
+  "files": [
+    "assets/index-wn9XA0jE.js",
+    "assets/style-rnHUYOex.css",
+    "index.html"
+  ],
+  "builtAt": "2026-10-03T00:03:56.263Z",
+  "requirements": "WebGL2, ES2022, static HTTP server"
+}
